@@ -1,0 +1,6 @@
+# Network Analysis
+This report shows how I analyzed network traffic using tcpdump to detect unusual patterns.
+
+**Tools used:** tcpdump 
+**Skills practiced:** Packet capture, protocol filtering, identifying suspicious activity.  
+**Report file:** SOC Incident Analysis.pdf
